@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annu881" alt="annu881" /></a> </p>
 
-- 🔭 I’m currently working on [Cytoscape.js](https://js.cytoscape.org/)
+- 🔭 I’m currently working on [Attribute Based Access Controle](https://www.uber.com/in/en/blog/attribute-based-access-control-at-uber/)
 
-- 🌱 I’m currently learning **React, DevOps tools**
+- 🌱 I’m currently learning **Machine Learning,GoLang, DevOps tools**
 
-- 👯 I’m looking to collaborate on **DevOps and React Projects**
+- 👯 I’m looking to collaborate on **DevOps and Machine Learning Projects**
 
 - 🤝 I’m looking for help with **I’m looking to help with frontend development, open-source projects, and beginner-level DevOps tasks.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Annu881](https://github.com/Annu881)
 
-- 💬 Ask me about **Web development, open-source, and DevOps**
+- 💬 Ask me about **Web development, open-source, Full Stack and DevOps**
 
 - 📫 How to reach me **rannaannu@gmail.com**
 
